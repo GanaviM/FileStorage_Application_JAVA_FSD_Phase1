@@ -46,16 +46,16 @@ The goal of the company is to deliver a high-end quality product as early as pos
 6. The second option should return the details of the user interface such as options displaying the following:
 
    1. Add a file to the existing directory list.
-      1.You can ignore the case sensitivity of the file names.
+    You can ignore the case sensitivity of the file names.
              
    2.  Delete a user specified file from the existing directory list.
-      1.You can add the case sensitivity on the file name in order to ensure that the right file is deleted from the directory list.
-      2. Return a message if FNF (File not found).
+     You can add the case sensitivity on the file name in order to ensure that the right file is deleted from the directory list.
+     Return a message if FNF (File not found).
               
    3. Search a user specified file from the main directory.
-     1. You can add the case sensitivity on the file name to retrieve the correct file.
-     2. Display the result upon successful operation.
-     3. Display the result upon unsuccessful operation.
+      You can add the case sensitivity on the file name to retrieve the correct file.
+      Display the result upon successful operation.
+      Display the result upon unsuccessful operation.
               
     4. Option to navigate back to the main context.
 
