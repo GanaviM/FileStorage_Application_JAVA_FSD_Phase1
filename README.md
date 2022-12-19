@@ -19,11 +19,13 @@ Company Lockers Pvt. Ltd. hired you as a Full Stack Developer. They aim to digit
    6. Generic features and three operations:
    
       a. Retrieving the file names in an ascending order.
+      
       b. Business-level operations:
          1. Option to add a user specified file to the application.
          2. Option to delete a user specified file from the application.
          3. Option to search a user specified file from the application.
-         4. Navigation option to close the current execution context and return to the main context.           
+         4. Navigation option to close the current execution context and return to the main context.
+                    
       c. Option to close the application.
 
 The goal of the company is to deliver a high-end quality product as early as possible.
