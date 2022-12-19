@@ -19,13 +19,11 @@ Company Lockers Pvt. Ltd. hired you as a Full Stack Developer. They aim to digit
    6. Generic features and three operations:
    
       a. Retrieving the file names in an ascending order.
-        
       b. Business-level operations:
       1. Option to add a user specified file to the application.
       2. Option to delete a user specified file from the application.
       3. Option to search a user specified file from the application.
-      4. Navigation option to close the current execution context and return to the main context.
-           
+      4. Navigation option to close the current execution context and return to the main context.           
       c. Option to close the application.
 
 The goal of the company is to deliver a high-end quality product as early as possible.
@@ -45,19 +43,15 @@ The goal of the company is to deliver a high-end quality product as early as pos
 5. The first option should return the current file names in ascending order. The root directory can be either empty or contain few files or folders in it.
 
 6. The second option should return the details of the user interface such as options displaying the following:
-
    1. Add a file to the existing directory list.
-    You can ignore the case sensitivity of the file names.
-             
+    You can ignore the case sensitivity of the file names.      
    2.  Delete a user specified file from the existing directory list.
      You can add the case sensitivity on the file name in order to ensure that the right file is deleted from the directory list.
-     Return a message if FNF (File not found).
-              
+     Return a message if FNF (File not found).              
    3. Search a user specified file from the main directory.
       You can add the case sensitivity on the file name to retrieve the correct file.
       Display the result upon successful operation.
-      Display the result upon unsuccessful operation.
-              
+      Display the result upon unsuccessful operation.              
     4. Option to navigate back to the main context.
 
   7. There should be a third option to close the application.
