@@ -73,9 +73,8 @@ The goal of the company is to deliver a high-end quality product as early as pos
 7. Specification document: Any open-source document or Google Docs.
 
 ### Following requirements should be met:
-
 1. The source code should be pushed to your GitHub repository. You need to document the steps and write the algorithms in it.
-2.The submission of your GitHub repository link is mandatory. In order to track your task, you need to share the link of the repository. You can add a section in your document.
+2. The submission of your GitHub repository link is mandatory. In order to track your task, you need to share the link of the repository. You can add a section in your document.
 3. Document the step-by-step process starting from sprint planning to the product release.
 4. Application should not close, exit, or throw an exception if the user specifies an invalid input.
 5. You need to submit the final specification document which includes:
