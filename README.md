@@ -20,10 +20,10 @@ Company Lockers Pvt. Ltd. hired you as a Full Stack Developer. They aim to digit
         a. Retrieving the file names in an ascending order.
         
         b. Business-level operations:
-            1. Option to add a user specified file to the application.
-            2. Option to delete a user specified file from the application.
-            3. Option to search a user specified file from the application.
-            4. Navigation option to close the current execution context and return to the main context.
+        1. Option to add a user specified file to the application.
+        2. Option to delete a user specified file from the application.
+        3. Option to search a user specified file from the application.
+        4. Navigation option to close the current execution context and return to the main context.
            
         c. Option to close the application.
 
@@ -46,11 +46,11 @@ The goal of the company is to deliver a high-end quality product as early as pos
 6. The second option should return the details of the user interface such as options displaying the following:
 
         1. Add a file to the existing directory list.
-             You can ignore the case sensitivity of the file names.
+           You can ignore the case sensitivity of the file names.
              
         2.  Delete a user specified file from the existing directory list.
-              You can add the case sensitivity on the file name in order to ensure that the right file is deleted from the directory list.
-              Return a message if FNF (File not found).
+            You can add the case sensitivity on the file name in order to ensure that the right file is deleted from the directory list.
+            Return a message if FNF (File not found).
               
         3. Search a user specified file from the main directory.
               You can add the case sensitivity on the file name to retrieve the correct file.
@@ -60,7 +60,7 @@ The goal of the company is to deliver a high-end quality product as early as pos
         4. Option to navigate back to the main context.
 
   7. There should be a third option to close the application.
-  8.Implement the appropriate concepts such as exceptions, collections, and sorting techniques for source code optimization and increased performance.
+  8. Implement the appropriate concepts such as exceptions, collections, and sorting techniques for source code optimization and increased performance.
 
 ### You must use the following:
 
